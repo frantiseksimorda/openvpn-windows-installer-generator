@@ -1,6 +1,6 @@
 # openvpn-windows-installer-generator
 1. setup openvpn server
-2. pull/download 
+2. pull/download this generator
 3. create your config.txt to customize setup and save in key_dir:
     ```;!@Install@!UTF-8!  
     Title="OpenVPN"  
