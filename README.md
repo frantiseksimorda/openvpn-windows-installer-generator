@@ -8,7 +8,7 @@
     InstallPath="%TEMP%"  
     RunProgram="setup.bat"  
     ;!@InstallEnd@!```
-4. Copy 7zS.sfx into key_dir
+4. Copy 7zS.sfx into key_dir (Download extra package: https://www.7-zip.org/download.html)
 5. create setup.bat which will do the installation, needs to be in the source_dir and later in archive wirh ca.crt, client key and crt, openvpn-exe-installer, client.ovpn config and ta.key it it was generated:  
     ```
     openvpn-install-2.4.12-I601-Win10.exe /S  
